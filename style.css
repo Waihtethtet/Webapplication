@@ -2,14 +2,14 @@
 
 body {
     background-color: #f0f8ff; /* Light blue background */
-    color: #333333;           /* Dark gray text color */
+    color: #861ec2;           /* Dark gray text color */
     font-family: 'Arial', sans-serif; /* Set the font for the page */
     margin: 20px;             /* Add margin around the body */
     padding: 20px;            /* Add padding inside the body */
 }
 
 h1 {
-    color: #0066cc;          /* Blue color for the header */
+    color: #089;          /* Blue color for the header */
     text-align: center;      /* Center-align the header text */
 }
 
