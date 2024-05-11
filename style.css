@@ -1,0 +1,22 @@
+/* styles.css - This is your CSS stylesheet */
+
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    color: #333333;           /* Dark gray text color */
+    font-family: 'Arial', sans-serif; /* Set the font for the page */
+    margin: 20px;             /* Add margin around the body */
+    padding: 20px;            /* Add padding inside the body */
+}
+
+h1 {
+    color: #0066cc;          /* Blue color for the header */
+    text-align: center;      /* Center-align the header text */
+}
+
+p {
+    font-size: 16px;         /* Set font size for paragraph */
+    line-height: 1.5;        /* Line height for paragraph */
+    margin-top: 20px;        /* Margin on top of paragraph */
+}
+
+/* You can add more styles below as needed */
